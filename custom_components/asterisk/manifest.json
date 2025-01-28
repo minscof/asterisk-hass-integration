@@ -1,15 +1,15 @@
 {
     "domain": "asterisk",
-    "name": "Asterisk",
+    "name": "Asterisk-test",
     "codeowners": [
-        "@TECH7Fox"
+        "@minscof"
     ],
     "config_flow": true,
     "dependencies": [],
-    "documentation": "https://github.com/TECH7Fox/Asterisk-integration",
+    "documentation": "https://github.com/minscof/Asterisk-integration",
     "homekit": {},
     "iot_class": "local_polling",
-    "issue_tracker": "https://github.com/TECH7Fox/Asterisk-integration/issues",
+    "issue_tracker": "https://github.com/minscof/Asterisk-integration/issues",
     "loggers": ["custom_components.asterisk"],
     "requirements": ["asterisk-ami==0.1.7"],
     "ssdp": [],
