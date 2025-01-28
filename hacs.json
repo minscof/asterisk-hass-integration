@@ -1,0 +1,7 @@
+{
+  "name": "asterisk",
+  "content_in_root": false,
+  "domains": ["asterisk"],
+  "homeassistant": "2023.1.0",  // Assurez-vous que la version de HA est compatible
+  "render_readme": true
+}
