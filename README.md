@@ -36,7 +36,7 @@ Most problems is because your PBX server is not configured correct.
 
 * For DTMF signalling to work, in FreePBX, change the dmtf signaling. For intercom purposes, "SIP-INFO DTMF-Relay" is needed.
 
-If you are still having problems you can make an issue, ask on the [discord server](https://discordapp.com/invite/qxnDtHbwuD) or send me a email.
+If you are still having problems you can make an issue, ask on the [discord server](https://discordapp.com/invite/qxnDtHbwuD) or send me a email .
 
 ## Contact
 **jordy.kuhne@gmail.com**
